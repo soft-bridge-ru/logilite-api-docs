@@ -435,7 +435,7 @@
 {
   "id": "string",
   "Статус": "string",
-  "Date": {
+  "Data": {
     "Номер": "string",
     "Дата": "date",
     "Контрагент": "string",
