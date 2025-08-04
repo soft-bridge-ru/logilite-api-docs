@@ -71,6 +71,7 @@
 ```json
 "Data": {
   "Номер": "string",
+  "НомерEDI": "string",
   "Дата": "datetime",
   "Проведен": "boolean",
   "ПометкаУдаления": "boolean",
@@ -416,13 +417,14 @@
 
 ```json
 {
-  "User": "ООООрион",
-  "Password": "45Gtiuj!34",
-  "NameBase": "test",
-  "Object": "test",
+  "User": "user1",
+  "Password": "SomeSecretPass",
+  "NameBase": "baze1",
+  "Object": "9a1043f5-6d3c-11f0-bce0-bc2411b4a333",
   "Data": {
-    "Номер": "74",
-    "Дата": "2025-07-22T12:00:00",
+    "Номер": "0000-019125",
+    "НомерEDI": "ЯЛ345436436",
+    "Дата": "2025-07-30T14:59:16",
     "Проведен": true,
     "ПометкаУдаления": false,
     "НомерНакладной": "74",
