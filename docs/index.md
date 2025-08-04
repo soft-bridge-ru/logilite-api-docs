@@ -1,5 +1,5 @@
 ---
-Это front matter — обязательно для Jekyll
+# Это front matter — обязательно для Jekyll
 ---
 
 <!-- Контент из api.md -->
